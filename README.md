@@ -2,7 +2,7 @@
 
 ## Description
 
-Expense Tracker is a python program that records user expenses and calcultaes the total amount spent.It helps users undestand basic financial calculations
+Expense Tracker is a python program that records user expenses and calcultaes the total amount spent.It helps users undestand basic financial calculations.
 
 ## Features
 
