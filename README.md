@@ -4,6 +4,12 @@
 
 Expense Tracker is a python program that records user expenses and calcultaes the total amount spent.It helps users undestand basic financial calculations
 
+## Features
+
+-Add multiple expenses
+
+-Calculate total expenses
+
 ## Technologies Used
 
 -Python3
