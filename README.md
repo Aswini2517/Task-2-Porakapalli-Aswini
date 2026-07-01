@@ -27,8 +27,11 @@ Expense Tracker is a python program that records user expenses and calcultaes th
 ## How to Run
 
 1.Install Python 3
+
 2.Download 'expense_tracker.py'
+
 3.Run the Program:
+
   python expense_tracker.py
 
 ## Author
